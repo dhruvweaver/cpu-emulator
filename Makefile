@@ -5,7 +5,7 @@ SRC_DIR = src
 INCLUDE_DIR = include
 BUILD_DIR = build
 BIN_DIR = bin
-TARGET = $(BIN_DIR)/my_program
+TARGET = $(BIN_DIR)/emulator
 
 # Source and object files
 # All .c files in src
